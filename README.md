@@ -25,3 +25,4 @@ pip install mouse
 
 # Запуск 
 ## Щоб запустити клікер скачайте його [тут](https://drive.google.com/file/d/1JapUOL4WZSYW2dNkvHL4fCrXmAg8rrDo/view?usp=sharing)
+## Щоб зпустити клікер відкрийте програму та натисніть ('Alt' + 'X')
